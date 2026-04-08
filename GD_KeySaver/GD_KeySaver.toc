@@ -1,1 +1,14 @@
+## Interface: 11200
+## Title: |cff00ff00GDKS按键配置保存插件|r
+## Notes: GDKS 按键/动作条/宏 一键保存还原
+## Title-zhCN:|CFF33AAFFGDKS按键保存|R
+## Notes-zhCN:|CFF33AAFFGDKS|R 动作条&按键&宏配置保存
+## DefaultState: enabled
+## SavedVariablesPerCharacter:
+## SavedVariables: GDKS_ConfigDB, GDKS_BindingsDB, GDKS_ActionBarDB, GDKS_MacrosDB
+## Version: 1.0.0
+## Author: Daggergd
+## URL: https://github.com/gdongd/GD_KeySaver
 
+GD_Lib.lua
+GD_KeySaver.lua
