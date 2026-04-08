@@ -6,6 +6,7 @@
 ## SavedVariablesPerCharacter: 
 ## SavedVariables: GDKS_ConfigDB, GDKS_BindingsDB, GDKS_ActionBarDB, GDKS_MacrosDB
 ## Dependencies: !Libs
+## URL:https://github.com/gdongd/GD_KeySaver.git
 
 GD_Lib.lua
 GD_KeySaver.lua
